@@ -39,7 +39,7 @@ https://www.wisdomgeek.com/development/data-science/converting-business-problem-
 2. Refactoring the business problem into a machine learning problem
 
    - A linear Regression ML model that predicts disease progression over 
-   12 months based on input features provided by doctors
+   12 months based on input features provided by doctors and customised by gender
 
 3. Defining success metrics
 
