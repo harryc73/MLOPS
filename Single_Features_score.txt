@@ -1,0 +1,5 @@
+CombRisk: 26%
+BMI: 33%
+Risk%: 24%
+BGU: 27%
+BP: 25%
